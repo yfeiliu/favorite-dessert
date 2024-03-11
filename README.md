@@ -1,2 +1,4 @@
-# favorite-dessert
-information about people favorite dessert
+# Favorite Dessert
+Information about people favorite dessert
+- Julien, pancakes
+- Danial, tea with nabot
